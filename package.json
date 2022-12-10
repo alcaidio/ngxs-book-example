@@ -34,7 +34,7 @@
     "@ngxs/storage-plugin": "^3.4.1",
     "@ngxs/store": "^3.4.1",
     "core-js": "^2.6.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "hammerjs": "^2.0.8",
     "path": "^0.12.7",
     "rxjs": "^6.4.0",
